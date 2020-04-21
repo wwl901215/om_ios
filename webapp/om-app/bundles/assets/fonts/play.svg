@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="录入结果-完成" transform="translate(-32.000000, -462.000000)">
+            <g id="Group-3-Copy-8" transform="translate(0.000000, 399.000000)">
+                <g id="Group-3" transform="translate(16.000000, 41.000000)">
+                    <g id="play" transform="translate(16.000000, 22.000000)">
+                        <g id="start_so">
+                            <rect x="0" y="0" width="28" height="28"></rect>
+                            <path d="M14,28 C21.7319865,28 28,21.7319865 28,14 C28,6.2680135 21.7319865,0 14,0 C6.2680135,0 0,6.2680135 0,14 C0,21.7319865 6.2680135,28 14,28 Z" id="形状结合" fill="#101015" opacity="0.6"></path>
+                            <path d="M10.1798936,17.1740196 C9.98523345,17.4917393 10.2268806,17.8888889 10.6145229,17.8888889 L18.9396023,17.8888889 C19.3272446,17.8888889 19.5705698,17.4917393 19.3759096,17.1740196 L15.214209,10.3494009 C15.0195488,10.0316812 14.5362545,10.0316812 14.3415943,10.3494009 L10.1798936,17.1740196 Z" id="Fill-1复制-2" fill="#FFFFFF" transform="translate(14.777778, 14.000000) rotate(-270.000000) translate(-14.777778, -14.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

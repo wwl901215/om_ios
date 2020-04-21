@@ -1,0 +1,54 @@
+{
+    "name": "s-solarmobilecross",
+    "home": "",
+    "remote_server": "",
+    "routes": [
+        {
+            "url": "/index.html#/alarmList",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+            
+        },
+        {
+            "url": "/index.html#/multiSite",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+            
+        },
+        {
+            "url": "/index.html#/multiSite?type=realTimeMonitoring",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+            
+        },
+        {
+            "url": "/index.html#/multiSite?type=assetOverview",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+        },
+        {
+            "url": "/index.html#/reportStatistics",
+            "show_navi": false,
+            "cls_container":"HomeViewController",
+            "title": "eos_kpi_performanceAnalysis",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+        },
+        {
+            "url": "/index.html#/singleSite?type=assetOverview&siteId=:siteId",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+        },
+        {
+            "url": "/index.html#/deviceDetail?siteId=:siteId&current=:current&deviceId=:deviceId&goOverview=:goOverview",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+        }
+    ]
+}
+

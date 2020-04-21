@@ -1,0 +1,15 @@
+/* 
+  infoPlist.strings
+  hybrid-demo
+
+  Created by syl on 2019/8/16.
+  
+*/
+"CFBundleDisplayName" = "EnOS 2.0";
+"NSCameraUsageDescription" = "以便进行拍照、扫码";
+"NSLocationAlwaysUsageDescription" = "以便获取您所在位置的信息";
+"NSLocationWhenInUseUsageDescription" = "以便获取您所在位置的信息";
+"NSMicrophoneUsageDescription" = "以便记录声音";
+"NSPhotoLibraryAddUsageDescription" = "以便选取照片";
+"NSPhotoLibraryUsageDescription" = "以便选取照片";
+

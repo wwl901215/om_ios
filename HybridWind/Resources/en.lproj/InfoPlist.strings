@@ -1,0 +1,15 @@
+/* 
+  infoPlist.strings
+  hybrid-demo
+
+  Created by syl on 2019/8/16.
+  
+*/
+
+"CFBundleDisplayName" = "EnOS 2.0";
+"NSCameraUsageDescription" = "need camera access to take pictures, To scan barcodes";
+"NSLocationAlwaysUsageDescription" = "need location to get your location information";
+"NSLocationWhenInUseUsageDescription" = "need location to get your location information";
+"NSMicrophoneUsageDescription" = "need microphone access to record sounds";
+"NSPhotoLibraryAddUsageDescription" = "need photo library access to save pictures there";
+"NSPhotoLibraryUsageDescription" = "need photo library access to get pictures from there";

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>up_blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="对比" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-137.000000, -26.000000)" fill="#099DFF" fill-rule="nonzero">
+            <g id="filter_blue" transform="translate(85.000000, 25.000000)">
+                <g id="up_blue" transform="translate(51.000000, 0.000000)">
+                    <path d="M5.916094,4.38321872 L9.041174,1.25813812 C9.431699,0.867613827 10.064864,0.867613827 10.455388,1.25813812 L10.574049,1.37679953 C10.964574,1.76732382 10.964574,2.4004888 10.574049,2.79101309 L6.6232,6.74186192 C6.427938,6.93712402 6.172016,7.03475512 5.916094,7.03475512 C5.660171,7.03475512 5.404249,6.93712402 5.208987,6.74186192 L1.258138,2.79101309 C0.867614,2.4004888 0.867614,1.76732382 1.258138,1.37679953 L1.3768,1.25813812 C1.767324,0.867613827 2.400489,0.867613827 2.791013,1.25813812 L5.916094,4.38321872 Z" transform="translate(5.916094, 4.000000) scale(-1, 1) rotate(-180.000000) translate(-5.916094, -4.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+framework module EnvHybrid {
+  umbrella header "EnvHybrid-umbrella.h"
+
+  export *
+  module * { export * }
+}

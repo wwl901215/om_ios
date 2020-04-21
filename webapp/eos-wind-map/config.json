@@ -1,0 +1,134 @@
+{
+    "name": "eos-wind-map",
+    "home": "/realTimeMonitoring.html",
+    "remote_server": "",
+    "routes": [
+      {
+        "url": "/realTimeMonitoring.html#/main",
+        "show_navi": true,
+        "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+        "title": "eos_wind_realTimeMonitoring",
+        "cls_container":"HomeViewController"
+      },
+      {
+        "url": "/realTimeMonitoring.html#/back",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/siteList.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "right_icon": "\ue922",
+        "title": "eos_wind_sitelist",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/switchSite.html",
+        "show_navi": true,
+        "left_icon": "\ue902",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.MenusWhiteWebViewActivity"
+      },
+      {
+        "url": "/searchSite.html",
+        "show_navi": false,
+        "left_icon": "\ue902",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchSiteFault.html",
+        "show_navi": false,
+        "left_icon": "\ue902",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/turbineMonitoring.html?wtgId=:wtgId&wtgName=:wtgName&siteId=:siteId&siteName=:siteName",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "title": "eos_wind_turbineMonitoring",
+        "android_cls_container":"com.enos.mobile.newenergy.home.BlueWebViewActivity",
+        "cls_container":"BlueViewController"
+      },
+      {
+        "url": "/searchTurbine.html",
+        "show_navi": false,
+        "left_icon": "\ue902",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/historyAlarm.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchAlarm.html",
+        "show_navi": false,
+        "left_icon": "\ue909",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url":"/turbineDetails.html",
+        "show_navi":true,
+        "left_icon":"\ue901",
+        "title":"",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url":"/turbineList.html",
+        "show_navi":true,
+        "left_icon": "\ue901",
+        "right_icon": "\ue922",
+        "title":"eos_wind_turbineList",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url":"/turbineList.html?phaseId=:pahseId&phaseName=:phaseName",
+        "show_navi":true,
+        "left_icon": "\ue901",
+        "right_icon": "\ue922",
+        "title":"eos_wind_turbineList",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/assetOverview.html",
+        "show_navi": true,
+        "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+        "title": "eos_asset_overview",
+        "cls_container":"HomeViewController"
+      },
+      {
+        "url": "/faultList.html",
+        "show_navi": false,
+        "left_icon": "\ue901",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/switchDomainSite.html",
+        "show_navi": false,
+        "left_icon": "\ue902",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.MenusWhiteWebViewActivity"
+      },{
+        "url": "/assetOverview.html?domain=:domain&filterStatus=:filterStatus#/listWindow",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "title": "eos_asset_list",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      }
+    ]
+  }
+    
+  

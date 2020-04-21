@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>down_black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="对比" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="电站列表-筛选4" transform="translate(-122.000000, -83.000000)" fill="#212029" fill-rule="nonzero">
+            <g id="tab" transform="translate(0.000000, 64.000000)">
+                <g id="Group-2" transform="translate(54.000000, 12.000000)">
+                    <path d="M72.9160937,10.3832187 L76.0411744,7.2581381 C76.4316987,6.86761381 77.0648636,6.86761381 77.4553879,7.2581381 L77.5740493,7.37679951 C77.9645736,7.7673238 77.9645736,8.40048878 77.5740493,8.79101307 L73.6232005,12.7418619 C73.4279383,12.937124 73.172016,13.0347551 72.9160937,13.0347551 C72.6601714,13.0347551 72.4042491,12.937124 72.2089869,12.7418619 L68.2581381,8.79101307 C67.8676138,8.40048878 67.8676138,7.7673238 68.2581381,7.37679951 L68.3767995,7.2581381 C68.7673238,6.86761381 69.4004888,6.86761381 69.7910131,7.2581381 L72.9160937,10.3832187 Z" id="down_black"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

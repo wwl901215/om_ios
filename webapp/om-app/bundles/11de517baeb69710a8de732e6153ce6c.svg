@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="230px" height="230px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>统计报表</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-健康" transform="translate(-222.000000, -709.000000)" stroke-width="1.2">
+            <g id="电站管家" transform="translate(0.000000, 640.000000)">
+                <g id="统计报表" transform="translate(192.000000, 47.000000)">
+                    <g transform="translate(30.000000, 22.000000)">
+                        <path d="M10.9715129,0.75635 C10.9646679,0.75830571 10.9646679,0.75830571 10.9578229,0.760261421 M8.80556372,2.05103021 C2.72526046,3.35940038 -0.920183508,9.82302287 1.4687166,15.8749683 C2.876828,19.441206 6.31301097,21.9738508 10.1374024,22.2466724 C15.4285766,22.6241245 19.901286,19.0715768 20.9505246,14.1959911" id="Stroke-1" stroke="#8F99A3"></path>
+                        <path d="M11.5714406,1.10010202 C11.5689519,2.2091742 11.565458,5.66179756 11.5609628,11.4557 C11.5980716,11.4557 11.6379957,11.4557 11.681,11.4557 L13.8425,11.4557 C17.0756357,11.4557 17.1998689,11.4557 21.9023386,11.4557 C21.8811658,5.74814123 17.2734815,1.13244341 11.5714406,1.10010202 Z" id="Stroke-3" stroke="#0088EB"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

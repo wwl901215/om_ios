@@ -1,0 +1,43 @@
+
+   [
+       {
+           "id": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+           "code": "System",
+           "name": "菜单分类1",
+           "url": "",
+           "displayOrder": 4,
+           "parentId": "",
+           "children": [
+               {
+                   "id": "d964dd1b-6cd7-4fed-a385-b015bc774772",
+                   "code": "Settings",
+                   "name": "菜单1-演示插件功能",
+                   "url": "/demo/index.html",
+                   "displayOrder": 7,
+                   "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                   "children": []
+               }
+           ]
+       },
+       {
+           "id": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9q",
+           "code": "System",
+           "name": "菜单分类2",
+           "url": "",
+           "displayOrder": 4,
+           "parentId": "",
+           "children": [
+               {
+                   "id": "d964dd1b-6cd7-4fed-a385-b015bc774773",
+                   "code": "Settings",
+                   "name": "菜单2-跳转到一个完全的webview",
+                   "url": "/demo/fragment.html",
+                   "displayOrder": 7,
+                   "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                   "children": []
+               }
+           ]
+       }
+   ]
+ 
+ 

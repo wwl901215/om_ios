@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="待办工作" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="待办工作-1" transform="translate(-339.000000, -82.000000)" fill="#212029" fill-rule="nonzero">
+            <g id="Group-3">
+                <g id="头部/整体">
+                    <g id="分组" transform="translate(0.000000, 20.000000)">
+                        <g id="标题栏" transform="translate(0.000000, 44.000000)">
+                            <g id="分组" transform="translate(346.000000, 22.000000) rotate(-270.000000) translate(-346.000000, -22.000000) translate(337.000000, 13.000000)">
+                                <path d="M3.70710678,12.7071068 C3.31658249,13.0976311 2.68341751,13.0976311 2.29289322,12.7071068 C1.90236893,12.3165825 1.90236893,11.6834175 2.29289322,11.2928932 L8.29289322,5.29289322 C8.68341751,4.90236893 9.31658249,4.90236893 9.70710678,5.29289322 L15.7071068,11.2928932 C16.0976311,11.6834175 16.0976311,12.3165825 15.7071068,12.7071068 C15.3165825,13.0976311 14.6834175,13.0976311 14.2928932,12.7071068 L9,7.41421356 L3.70710678,12.7071068 Z" id="right" transform="translate(9.000000, 9.000000) rotate(-270.000000) translate(-9.000000, -9.000000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

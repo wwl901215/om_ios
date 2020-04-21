@@ -1,0 +1,23 @@
+{
+    "name": "eos-gas-map",
+    "home": "/plantOverview.html",
+    "remote_server": "",
+    "routes": [
+      {
+        "url": "/plantOverview.html",
+        "show_navi": true,
+        "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+        "title": "eos_gas_plantOverview",
+        "cls_container":"HomeViewController"
+      },
+      {
+        "url": "/assetOverview.html",
+        "show_navi": true,
+        "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+        "title": "eos_gas_assetOverview",
+        "cls_container":"HomeViewController"
+      }
+    ]
+  }
+    
+  

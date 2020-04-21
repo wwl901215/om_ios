@@ -1,0 +1,84 @@
+{
+  "name": "setting",
+  "home": "/index.html",
+  "remote_server": "",
+  "routes": [
+      {
+          "url": "/index.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+          "url": "/orgselect.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+          "url": "/language.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+          
+      },
+      {
+          "url": "/download.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+          "url": "/error.html",
+          "show_navi": true,
+          "cls_container":"HomeViewController",
+          "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+
+      },
+      {
+          "url": "/about.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "title": "title_about",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+
+      },
+      {
+          "url": "/useragreement.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "title": "title_user_agreement",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+
+      },
+      {
+          "url": "/useragreenmenten.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "title": "title_user_agreement",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+
+
+      },
+      {
+          "url": "/privacypolicy.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "title": "title_privacy_policy",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+
+
+      },
+      {
+          "url": "/privacypolicyen.html",
+          "show_navi": true,
+          "left_icon": "\ue901",
+          "title": "title_privacy_policy",
+          "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+
+
+      }
+  ]
+}
+  
+

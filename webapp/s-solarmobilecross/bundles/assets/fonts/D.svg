@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>D</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.0448558%" y1="15.6054688%" x2="13.9551442%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#44B0FF" offset="0%"></stop>
+            <stop stop-color="#046AFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16,13.875 L19.7194719,13.875 C21.843513,13.875 23.4544457,14.4722646 24.5667591,15.6809558 C25.6058646,16.7976852 26.125,18.4109928 26.125,20.5 C26.125,22.561618 25.5921981,24.1788497 24.5302661,25.3374546 C23.4143584,26.5313934 21.8007836,27.125 19.6831683,27.125 L16,27.125 C15.3786797,27.125 14.875,26.6213203 14.875,26 L14.875,15 C14.875,14.3786797 15.3786797,13.875 16,13.875 Z M17.1035479,16.6932773 L17.1035479,24.3067227 C17.1035479,24.7899718 17.4952987,25.1817227 17.9785479,25.1817227 L19.320132,25.1817227 C20.9204811,25.1817227 22.1058371,24.7928464 22.8417447,24.0371278 C23.5655407,23.2757051 23.9327558,22.0996887 23.9327558,20.5 C23.9327558,18.8735647 23.5696944,17.6922301 22.8609399,16.9457494 C22.1285395,16.1936195 20.9663222,15.8182773 19.3564356,15.8182773 L17.9785479,15.8182773 C17.4952987,15.8182773 17.1035479,16.2100282 17.1035479,16.6932773 Z" id="path-2"></path>
+        <filter x="-320.0%" y="-226.4%" width="740.0%" height="643.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.203921569   0 0 0 0 0.729411765  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-10备份-2" transform="translate(-16.000000, -64.000000)">
+            <g id="D" transform="translate(16.000000, 64.000000)">
+                <g id="编组-7">
+                    <circle id="椭圆形备份-2" fill="#0084FF" opacity="0.08" cx="20" cy="20" r="20"></circle>
+                    <g id="形状" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#000000" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="230px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>电站集控</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-健康" transform="translate(-46.000000, -710.000000)">
+            <g id="电站管家" transform="translate(0.000000, 640.000000)">
+                <g id="场站集控" transform="translate(17.000000, 47.000000)">
+                    <g id="电站集控" transform="translate(30.000000, 24.000000)">
+                        <polygon id="Fill-1" stroke="#8F99A3" stroke-width="1.2" points="0 17 25 17 25 0 0 0"></polygon>
+                        <polygon id="Fill-2" stroke="#8F99A3" stroke-width="0.2" fill="#8F99A3" points="12 21 13 21 13 17 12 17"></polygon>
+                        <polygon id="Fill-3" stroke="#8F99A3" stroke-width="0.2" fill="#8F99A3" points="0 14 25 14 25 13 0 13"></polygon>
+                        <polygon id="Fill-4" stroke="#8F99A3" stroke-width="0.2" fill="#8F99A3" points="4 21 21 21 21 20 4 20"></polygon>
+                        <path d="M12.5,10 C10.9824667,10 10.3648,8.2396 9.86726667,6.826 C9.67686667,6.2824 9.32213333,5.272 9.09773333,5.2 C8.8824,5.2 8.65346667,5.8804 8.48573333,6.376 C8.14233333,7.3996 7.67086667,8.8 6.25193333,8.8 L4,8.8 L4,7.6 L6.25193333,7.6 C6.82993333,7.6 7.07813333,6.9856 7.41926667,5.974 C7.71506667,5.0944 8.0834,4 9.1,4 C10.0848667,4 10.4951333,5.17 10.9303333,6.4072 C11.3236,7.5292 11.7701333,8.8 12.5,8.8 C13.1414667,8.8 13.4361333,8.2012 13.8634,7.2244 C14.2578,6.3232 14.7485333,5.2 15.9,5.2 C16.801,5.2 17.3348,5.9812 17.7643333,6.61 C18.1836667,7.2256 18.467,7.6 18.8466667,7.6 L21,7.6 L21,8.8 L18.8466667,8.8 C17.8595333,8.8 17.2974,7.9756 16.8440667,7.312 C16.4689333,6.7612 16.2003333,6.4 15.9,6.4 C15.5022,6.4 15.254,6.9016 14.8913333,7.7296 C14.4731333,8.6872 13.8985333,10 12.5,10" id="Fill-5" fill="#0088EB"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

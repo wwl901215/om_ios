@@ -1,0 +1,212 @@
+
+    [{
+        "id": "08aca4dd-34bf-46a6-ae9c-68bbd039f08f",
+        "code": null,
+        "name": "智能运维",
+        "description": "运维服务",
+        "createdTime": "2019-11-08 06:17:35",
+        "status": true,
+        "order": 0,
+        "url": "http://172.30.2.16:8080/samex/webclient/login/login.jsp",
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "e90787c0-ef0e-4512-ad07-8a075a81cc9b",
+        "code": "gas_malta",
+        "name": "Gas",
+        "description": "Gas",
+        "createdTime": "2019-10-09 05:38:06",
+        "status": true,
+        "order": 0,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 24,
+            "name": "火电"
+        },
+        "structure": null
+    }, {
+        "id": "c56e7b3e-022d-41b0-bcfe-3f37a2341938",
+        "code": "",
+        "name": "状态监测",
+        "description": "CMS",
+        "createdTime": "2019-10-09 02:31:18",
+        "status": true,
+        "order": 0,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "3ca4a603-48e0-4b66-b716-5e1f91af6029",
+        "code": null,
+        "name": "智能监控",
+        "description": "wind enlight monitor web",
+        "createdTime": "2019-07-10 07:18:15",
+        "status": false,
+        "order": 1,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "62b4e4ad-144b-4a69-8596-51a95a0d979c",
+        "code": null,
+        "name": "智能预警",
+        "description": "Ensight Wind",
+        "createdTime": "2019-06-13 08:44:30",
+        "status": true,
+        "order": 3,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "9c0a1d1f-c28d-4bb9-96df-649563b7a3fa",
+        "code": null,
+        "name": "气象预报",
+        "description": "Enweather Web",
+        "createdTime": "2019-08-23 07:21:10",
+        "status": true,
+        "order": 6,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "d67a92c4-f41f-4c09-87f5-cd520b4876ca",
+        "code": null,
+        "name": "风光一体APP",
+        "description": "风光一体 app",
+        "createdTime": "2019-08-08 08:00:30",
+        "status": false,
+        "order": 7,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 35,
+            "name": "综合"
+        },
+        "structure": null
+    }, {
+        "id": "ae4afe91-eab9-4ba4-93e0-219cf700af6b",
+        "code": null,
+        "name": "升压站监控",
+        "description": "升压站监控",
+        "createdTime": "2019-08-12 13:03:29",
+        "status": true,
+        "order": 9,
+        "url": "http://www.12306.cn",
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 36,
+            "name": "升压站"
+        },
+        "structure": null
+    }, {
+        "id": "09fff25f-7f37-4426-adbe-889fc2355b0a",
+        "code": null,
+        "name": "告警服务",
+        "description": "告警服务",
+        "createdTime": "2019-07-02 09:08:41",
+        "status": false,
+        "order": 10,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 35,
+            "name": "综合"
+        },
+        "structure": null
+    }, {
+        "id": "b49f724c-209b-4b47ab942c3b-98e0-4742",
+        "code": null,
+        "name": "HMI_Graph",
+        "description": "给组态工具使用，不能删！！！",
+        "createdTime": "2019-03-11 09:35:38",
+        "status": true,
+        "order": 11,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 34,
+            "name": "其他"
+        },
+        "structure": null
+    }, {
+        "id": "f76865b1-aabc-4a4d4aeaed3c-98a9-4ea3",
+        "code": null,
+        "name": "智慧风场",
+        "description": "Enlight(monitor+kpi)",
+        "createdTime": "2019-05-14 07:09:49",
+        "status": true,
+        "order": 15,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }, {
+        "id": "64c5a3c7-84e7-42c4-858a-d92bbef56426",
+        "code": null,
+        "name": "资产概览",
+        "description": "portfolio",
+        "createdTime": "2019-06-19 10:44:16",
+        "status": true,
+        "order": 16,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 35,
+            "name": "综合"
+        },
+        "structure": null
+    }, {
+        "id": "363c8ed2-b3e6-4fdd-8e4e-fdc72730e3ab",
+        "code": null,
+        "name": "功率预测",
+        "description": "Forecaster",
+        "createdTime": "2019-06-13 08:45:06",
+        "status": true,
+        "order": 17,
+        "url": null,
+        "isShortcut": false,
+        "sourceApp": null,
+        "category": {
+            "id": 21,
+            "name": "风电"
+        },
+        "structure": null
+    }]
+ 
+ 

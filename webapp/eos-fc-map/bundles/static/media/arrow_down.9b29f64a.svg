@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="细节" transform="translate(-1302.000000, -116.000000)">
+            <g id="Group-12" transform="translate(1158.000000, 103.000000)">
+                <g id="分组-2" transform="translate(144.000000, 13.000000)">
+                    <rect id="矩形" x="0" y="0" width="12" height="12"></rect>
+                    <path d="M10.9999463,8.36627554 C10.9999463,8.5122246 10.9482691,8.65801429 10.8453174,8.7691639 C10.6389978,8.99191224 10.3053976,8.99191224 10.099078,8.7691639 L6.02957079,4.37559596 L1.90097903,8.83293874 C1.69465948,9.05568709 1.36100554,9.05568709 1.15473966,8.83293874 C0.948420112,8.6101904 0.948420112,8.25004075 1.15473966,8.02729241 L5.65650479,3.16706126 C5.86282434,2.94431291 6.19641118,2.94431291 6.40273073,3.16706126 L10.8453174,7.96344513 C10.9482155,8.07459474 11,8.22038443 11,8.36633349 L10.9999463,8.36627554 Z" id="Fill-1-Copy-3" fill="#FFFFFF" opacity="0.800215127" transform="translate(6.000000, 6.000000) scale(-1, 1) rotate(-180.000000) translate(-6.000000, -6.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

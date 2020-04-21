@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>position_so_w</title>
+    <desc>Created with Sketch.</desc>
+    <g id="工单" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作定位-工单详情-1" transform="translate(-21.000000, -75.000000)">
+            <g id="position_so_w" transform="translate(20.000000, 75.000000)">
+                <rect id="position_so" x="0" y="0" width="18" height="18"></rect>
+                <path d="M16.5,7.5 C16.5,9.73521399 14.205835,12.9801868 9.6175176,17.2349321 C9.26643638,17.5604877 8.7282723,17.5748993 8.36027054,17.2686002 C3.81615085,13.4863901 1.5,10.279412 1.5,7.5 C1.5,3.35786438 4.85786438,-2.84217094e-14 9,-2.84217094e-14 C13.1421356,-2.84217094e-14 16.5,3.35786438 16.5,7.5 Z M9,9.5 C10.1045695,9.5 11,8.6045695 11,7.5 C11,6.3954305 10.1045695,5.5 9,5.5 C7.8954305,5.5 7,6.3954305 7,7.5 C7,8.6045695 7.8954305,9.5 9,9.5 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

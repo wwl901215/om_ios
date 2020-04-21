@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>自定义图标@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#11B4F2" offset="0%"></stop>
+            <stop stop-color="#077DE1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="0-2-1.选择环境（有自定义）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-18.000000, -252.000000)">
+        <g id="Group-Copy-7" transform="translate(0.000000, 64.000000)">
+            <g id="自定义图标" transform="translate(18.000000, 188.000000)">
+                <polygon id="Fill-1" fill="url(#linearGradient-1)" points="0 16 24 16 24 0 0 0"></polygon>
+                <path d="M12.1425694,8 C10.4848552,8 9.14256944,6.65685714 9.14256944,5 C9.14256944,3.34314286 10.4848552,2 12.1425694,2 C13.7994266,2 15.1425694,3.34314286 15.1425694,5 C15.1425694,6.65685714 13.7994266,8 12.1425694,8 M17.2125694,12.998 C16.8954266,13.8114286 16.0374266,14 15.2274266,14 L9.05685516,14 C8.24685516,14 7.38885516,13.8114286 7.07256944,12.998 C6.78628373,11.7542857 7.38885516,10.7505714 8.14742659,9.95942857 C8.86056944,9.19314286 9.0997123,8.92914286 10.4068552,8.85714286 L13.8774266,8.85714286 C15.1845694,8.92914286 15.4237123,9.19314286 16.1377123,9.95942857 C16.8954266,10.7505714 17.4988552,11.7542857 17.2125694,12.998" id="Page-1" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

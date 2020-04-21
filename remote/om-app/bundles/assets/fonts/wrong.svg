@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>wrong_circle_so</title>
+    <desc>Created with Sketch.</desc>
+    <g id="台帐" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="搜索-结果" transform="translate(-288.000000, -36.000000)" fill-rule="nonzero">
+            <g id="搜索框" transform="translate(0.000000, 20.000000)">
+                <g id="Group" transform="translate(16.000000, 8.000000)">
+                    <g id="wrong_circle_so" transform="translate(272.000000, 8.000000)">
+                        <circle id="椭圆形" fill="#C5C5D1" cx="9" cy="9" r="9"></circle>
+                        <g id="分组" transform="translate(6.000000, 6.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                            <path d="M0,0 L6,6" id="路径-2"></path>
+                            <path d="M6,0 L0,6" id="路径-3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

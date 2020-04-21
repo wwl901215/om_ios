@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  hybrid-demo
+
+  Created by syl on 2019/7/18.
+  
+*/
+"TITLE_SETTING" = "设置";
+"TITLE_SWITCH_LANGUAGE" = "切换语言";
+"TITLE_SWITCH_ORGINIZATION" = "切换组织";
+"TITLE_DOWNLOAD" = "下载应用";
+"MENU_TITLE" = "菜单";
+"MENU_SYSTEM" = "系统";
+"MENU_SETTING" = "设置";
+"eos_wind_realTimeMonitoring" = "实时监测";
+"eos_asset_overview" = "资产概览";
+"eos_asset_list" = "场站列表";
+"NSLocationAlwaysUsageDescription" = "以便获取您所在位置的天气信息";
+"NSLocationWhenInUseUsageDescription" = "以便获取您所在位置的天气信息";
+"msg_username_or_password_empty" = "用户名或密码为空";
+"msg_username_or_password_wrong" = "用户名或者密码错误";
+"account" = "用户账号";
+"account_plceholder" = "请输入您的用户名";
+"password" = "登录密码";
+"password_plceholder" = "请输入密码";
+"user_environment_select" = "用户环境选择";
+"authentication_select" = "认证方式选择";
+"user_environment" = "用户环境";
+"env_us" = "美国";
+"env_gf" = "广发新能源";
+"env_ch" = "中国";
+"env_eur" = "欧洲";
+"env_ppe" = "PPE";
+"env_shdl" = "上海电力";
+"env_hbjt" = "河北建投";
+"env_india" = "印度";
+"authentication" = "认证方式";
+"default" = "默认";
+"cancel" = "取消";
+"login" = "立即登录";
+"OK" = "确定";
+"DEMO_TITLE_HOME" = "demo演示";
+"TEST" = "test页面";
+"EOSWINDMONITOR" = "eos wind 页面";
+"TESTAPI" = "test api page";
+"DEMO_TITLE_NAVIBAR" ="导航栏演示";
+"DEMO_TITLE_SHARED_DATA" = "数据共享演示";
+"DEMO_TITLE_MOCK_DATA" = "Mock Restful接口";
+"NETWORK_TIME_OUT" = "网络未连接或服务器内部错误";
+"MENU_TITLE" = "菜单";
+"eos_fc_forecast_meteorological" = "气象预报";
+"eos_fc_forecast" = "天气预报";
+"eos_fc_forecast_SINGAPORE" = "新加坡模式";
+"eos_fc_forecast_GLOBAL" = "全球模式";
+"eos_pf_forecast" = "功率预报";
+"eos_pf_turbine_list" = "单风机预测";
+"eos_pf_history_records" = "历史查询";
+"eos_wind_realTimeMonitoring" = "实时监测";
+"eos_kpi_performanceComparison" = "对比分析";
+"eos_kpi_performanceAnalysis" = "绩效分析";
+"eos_kpi_chooseDefault" = "选择默认维度";
+"eos_kpi_comparesites" = "对比场站";
+"eos_kpi_comparewtgs" = "对比风机";
+"eos_asset_overview" = "资产概览";
+"eos_gas_plantOverview" = "厂站概览";
+"eos_gas_assetOverview" = "机组概览";
+"setting" = "设置";
+"account" = "用户";
+"download" = "邀请下载应用";
+"download_title" = "下载应用";
+"version" = "当前版本";
+"logout" = "退出登录";
+"download_hint" = "扫一扫上面的二维码，下载APP";
+"guide_notice" = "点击左上角菜单按钮切换应用";
+"i_know" = "我知道了";
+"switch_language_notice" = "为了保证语言切换成功，程序将退回到桌面，请稍后重新打开程序";
+"switch_org_notice" = "为了保证组织切换成功，程序将退回到桌面，请稍后重新打开程序";
+"title_setting" = "设置";
+"title_switch_orginization" = "切换组织";
+"title_switch_language" = "切换语言";
+"title_download" = "下载应用";
+"title_about" = "关于";
+
+"title_user_agreement" = "用户协议";
+"title_privacy_policy" = "隐私政策";
+"title_notification_setting"= "新消息通知";
+"content_agree_privacy" = "登录即代表同意《EnOS用户协议》和《隐私协议》";
+"attribut_string_agreement" = "《EnOS用户协议》";
+"attribut_string_privacy" = "《隐私协议》";
+"no_available_menu" = "该应用下没有可用菜单,请求授权或者切换应用";
+"no_available_app" = "无授权应用,请检查";
+"bnt_change_app" = "切换应用";
+"title_change_app" = "切换应用";
+"no_permission" = "暂无权限";
+"no_permission_desc" = "对不起，你暂时没有应用访问权限";
+"eos_wind_turbineMonitoring" = "设备详情";
+"eos_wind_sitelist" = "风场列表";
+"eos_wind_turbineList" = "风机列表";
+
+"err_login_faild" = "登录失败";
+"err_apimtoken_expired" = "接口凭据失效";
+"err_network_unavailable" = "网络不可用，请检查网络";
+"err_invalid_req" = "请求错误";

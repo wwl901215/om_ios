@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>M</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="20.2633923%" x2="0%" y2="93.2286857%" id="linearGradient-1">
+            <stop stop-color="#44B0FF" offset="0%"></stop>
+            <stop stop-color="#046AFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.1381926,18.1446482 L15.1381926,26 C15.1381926,26.6213203 14.634513,27.125 14.0131926,27.125 L14,27.125 C13.3786797,27.125 12.875,26.6213203 12.875,26 L12.875,15 C12.875,14.3786797 13.3786797,13.875 14,13.875 L14.7310131,13.875 C15.1765747,13.875 15.5801523,14.1379601 15.7601392,14.5455505 L20.0090604,24.1674689 L24.2402453,14.5470793 C24.4198707,14.1386673 24.8238775,13.875 25.2700452,13.875 L26,13.875 C26.6213203,13.875 27.125,14.3786797 27.125,15 L27.125,26 C27.125,26.6213203 26.6213203,27.125 26,27.125 L25.9868074,27.125 C25.365487,27.125 24.8618074,26.6213203 24.8618074,26 L24.8618074,18.1446482 L21.2443137,26.4492756 C21.0655572,26.8596443 20.6605301,27.125 20.2129183,27.125 L19.7870817,27.125 C19.3394699,27.125 18.9344428,26.8596443 18.7556863,26.4492756 L15.1381926,18.1446482 Z" id="path-2"></path>
+        <filter x="-252.6%" y="-226.4%" width="605.3%" height="643.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.203921569   0 0 0 0 0.729411765  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-10备份-2" transform="translate(-16.000000, -131.000000)">
+            <g id="M" transform="translate(16.000000, 131.000000)">
+                <g id="编组-8">
+                    <circle id="椭圆形备份-5" fill="#0084FF" opacity="0.08" cx="20" cy="20" r="20"></circle>
+                    <g id="M" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#000000" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

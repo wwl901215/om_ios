@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="23px" viewBox="0 0 20 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon/工人</title>
+    <desc>Created with Sketch.</desc>
+    <g id="头部切换应用1120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切换应用备份-4" transform="translate(-265.000000, -110.000000)">
+            <g id="icon/工人" transform="translate(263.000000, 110.000000)">
+                <rect id="user" x="0" y="0" width="24" height="24"></rect>
+                <path d="M20.9951452,15.310682 C21.5794254,15.4308768 22,15.958553 22,16.5714286 L22,21.7142857 C22,22.4243661 21.4403559,23 20.75,23 L3.25,23 C2.55964406,23 2,22.4243661 2,21.7142857 L2,16.5714286 C2,15.958553 2.42057459,15.4308768 3.00485483,15.310682 L9.25485483,14.0249677 L9.5,14 L14.5,14 L14.7451452,14.0249677 L20.9951452,15.310682 Z M14.5346406,16 L9.46535935,16 L4,17.3663398 L4,21 L20,21 L20,17.3663398 L14.5346406,16 Z" id="user" fill="#028BFF"></path>
+                <path d="M17,7 C17,4.23857625 14.7614237,2 12,2 C9.23857625,2 7,4.23857625 7,7" id="路径" stroke="#028BFF" stroke-width="2"></path>
+                <path d="M16,12 C16,9.790861 14.209139,8 12,8 C9.790861,8 8,9.790861 8,12" id="路径" stroke="#028BFF" stroke-width="2" transform="translate(12.000000, 10.000000) scale(1, -1) translate(-12.000000, -10.000000) "></path>
+                <path d="M6,7 L18,7" id="路径-6" stroke="#028BFF" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M9,4 L15,4" id="路径-6" stroke="#028BFF" stroke-width="2" stroke-linecap="round" transform="translate(12.000000, 4.000000) rotate(90.000000) translate(-12.000000, -4.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

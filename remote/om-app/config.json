@@ -1,0 +1,60 @@
+{
+    "name": "om-app",
+    "home": "",
+    "remote_server": "",
+    "routes": [
+        {
+            "url": "/index.html#/taskList",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+
+        },
+        {
+            "url": "/index.html#/workOrder",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+
+
+        },
+        {
+            "url": "/index.html#/flaw",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+
+        },
+        {
+            "url": "/index.html#/backlog",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+
+        },
+        {
+            "url": "/index.html#/equipmentLedger",
+            "show_navi": false,
+            "cls_container":"WhiteViewController",
+            "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity"
+        },
+        {
+            "url": "/index.html#/flawinfo?faultId=:faultId",
+            "show_navi": false,
+            "cls_container":"WhiteViewController"
+        },
+        {
+            "url": "/index.html#/flawnew?siteId=:siteId&type=:type",
+            "show_navi": false,
+            "cls_container":"WhiteViewController"
+        },
+        {
+            "url": "/index.html#/flawnew?type=:type&areaIdName=:areaIdName&typeId=:typeId&resultId=:resultId&faultName=:faultName&categoryIdName=:categoryIdName&deviceIdName=:deviceIdName&categoryId=:categoryId&deviceId=:deviceId&areaId=:areaId",
+            "show_navi": false,
+            "cls_container":"WhiteViewController"
+        }
+        
+    ]
+}
+
+

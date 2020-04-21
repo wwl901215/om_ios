@@ -1,0 +1,67 @@
+
+    [{
+        "id": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+        "code": "System",
+        "name": "om-app",
+        "url": "",
+        "displayOrder": 4,
+        "parentId": "",
+        "children": [
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747721",
+                "code": "Settings1",
+                "name": "任务",
+                "url": "/om-app/index.html#/taskList",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            },
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747722",
+                "code": "Settings2",
+                "name": "工单",
+                "url": "/om-app/index.html#/workOrder",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            },
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747723",
+                "code": "Settings3",
+                "name": "缺陷",
+                "url": "/om-app/index.html#/flaw",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            },
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747724",
+                "code": "Settings4",
+                "name": "代办工作",
+                "url": "/om-app/index.html#/backlog",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            },
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747725",
+                "code": "Settings5",
+                "name": "设备台账",
+                "url": "/om-app/index.html#/equipmentLedger",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            },
+            {
+                "id": "d964dd1b-6cd7-4fed-a385-b015bc7747725",
+                "code": "Settings5",
+                "name": "测试插件功能",
+                "url": "/demo/index.html",
+                "displayOrder": 7,
+                "parentId": "6bebe541-e8ee-46c6-8b5a-d8adcf6a3b9d",
+                "children": []
+            }
+        ]
+    }]
+ 
+ 

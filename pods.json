@@ -1,0 +1,24 @@
+{
+    "declarations": {},
+    "sources": {},
+    "libraries": {
+        "UMCCommon": {
+            "name": "UMCCommon",
+            "count": 1
+        },
+        "UMCPush": {
+            "name": "UMCPush",
+            "count": 1
+        },
+        "UMCSecurityPlugins": {
+            "name": "UMCSecurityPlugins",
+            "count": 1
+        },
+        "EnvHybrid": {
+            "name": "EnvHybrid",
+            "git": "http://git.envisioncn.com/FE/mobile-framework-hybrid-ios.git",
+            "tag": "3.0.0",
+            "count": 1
+        }
+    }
+}

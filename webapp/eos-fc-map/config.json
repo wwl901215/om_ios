@@ -1,0 +1,21 @@
+{
+  "name": "eos-fc-map",
+  "home": "/index.html",
+  "remote_server": "",
+  "routes": [
+    {
+      "url": "/index.html#/weather/SINGAPORE",
+      "show_navi": true,
+      "title": "eos_fc_forecast_SINGAPORE",
+      "android_cls_container": "com.enos.mobile.newenergy.home.MainActivity",
+      "cls_container": "HomeViewController"
+    },
+    {
+      "url": "/index.html#/weather/GLOBAL",
+      "show_navi": true,
+      "title": "eos_fc_forecast_GLOBAL",
+      "android_cls_container": "com.enos.mobile.newenergy.home.MainActivity",
+      "cls_container": "HomeViewController"
+    }
+  ]
+}

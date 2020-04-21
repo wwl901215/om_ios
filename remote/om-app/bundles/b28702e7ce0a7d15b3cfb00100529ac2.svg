@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="26px" viewBox="0 0 25 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>户用接入icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="户用接入手机版-常规字号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00.首页-正在扫描" transform="translate(-222.000000, -787.000000)" stroke-width="1.2">
+            <g id="电站管家" transform="translate(0.000000, 638.000000)">
+                <g id="敬请期待" transform="translate(192.000000, 129.000000)">
+                    <g id="户用接入icon" transform="translate(30.000000, 21.000000)">
+                        <path d="M10.705,21.7666 L13.03,19.4416 L4.659,11.0706 L2.334,13.3956 C0.022,15.7066 0.022,19.4546 2.334,21.7666 C4.645,24.0786 8.393,24.0786 10.705,21.7666 Z" id="Stroke-1" stroke="#8F99A3"></path>
+                        <path d="M13.0302,6.419 L9.3092,10.14" id="Stroke-3" stroke="#0088EB"></path>
+                        <path d="M17.6806,11.0703 L13.9606,14.7903" id="Stroke-5" stroke="#0088EB"></path>
+                        <path d="M19.5409,12.9297 L21.8659,10.6047 C24.1779,8.2927 24.1779,4.5447 21.8659,2.2337 C19.5549,-0.0783 15.8069,-0.0783 13.4949,2.2337 L11.1699,4.5587 L19.5409,12.9297 Z" id="Stroke-7" stroke="#0088EB"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

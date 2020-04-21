@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html manifest="appcache.manifest">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,user-scalable=no,viewport-fit=cover" />
+	<!-- <meta name="format-detection" content="telephone=no" />  -->
+
+	<title>EOS</title>
+	<style>
+		/* 这里不用css文件,是为了兼容各种打包工具, gulp weback等等都不需要关心这个文件了. */
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+			font-size: 28px;
+		}
+
+		iframe {
+			width: 100%;
+			height: 100%;
+			border: none;
+			position: absolute;
+			left: 100%;
+			padding: 0;
+			margin: 0;
+		}
+
+		div {
+			box-sizing: border-box;
+			padding: 0;
+			margin: 0;
+		}
+
+		.Light {
+			font-weight: 300;
+		}
+
+		.SemiBold {
+			font-weight: 600;
+		}
+
+		.Medium {
+			font-weight: 500;
+		}
+
+		.Bold {
+			font-weight: 700;
+		}
+
+		#container {
+			position: relative;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+
+		#alert {
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background-color: rgba(0, 0, 0, 0.3);
+			z-index: 100;
+			display: none;
+		}
+
+		.alert {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 20rem;
+			background: white;
+			border-radius: 10px;
+			text-align: center;
+		}
+
+		.title {
+			color: #29323e;
+			font-size: 1.33rem;
+			line-height: 1.83rem;
+			margin: 1.33rem 0 0 0;
+			text-align: center;
+		}
+
+		#message {
+			color: #29323e;
+			font-size: 1.08rem;
+			line-height: 1.33rem;
+			margin: .42rem 1.08rem 0 1.08rem;
+			text-align: center;
+		}
+
+		.alert>div {
+			border-top: 1px solid #E9EEF3;
+			color: rgb(34, 115, 237);
+			height: 3.58rem;
+			line-height: 3.58rem;
+			text-align: center;
+			color: #077de1;
+			font-size: 1.42rem;
+			margin: 1.33rem 0 0 0;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="container"></div>
+
+	<div id="alert">
+		<div class="alert">
+			<p class="title SemiBold" id="alert_title">提示</p>
+			<p id="message">message</p>
+			<div id="alert_confirm">我知道了</div>
+		</div>
+	</div>
+
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		#confirm_wrap {
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background-color: rgba(0, 0, 0, 0.3);
+			z-index: 100;
+			display: none;
+			box-sizing: border-box;
+		}
+
+		.confirm_body {
+			width: 22.5rem;
+			background-color: white;
+			border-radius: .67rem;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			overflow: hidden;
+		}
+
+		#confirm_title {
+			color: #29323e;
+			font-size: 1.33rem;
+			line-height: 1.83rem;
+			margin: 1.33rem 0 0 0;
+			text-align: center;
+		}
+
+		#confirm_content {
+			color: #29323e;
+			font-size: 1.08rem;
+			line-height: 1.33rem;
+			margin: .42rem 1.08rem 0 1.08rem;
+			text-align: center;
+		}
+
+		.confirm_btn {
+			border-top: 1px solid #e9eef3;
+			margin: 1.67rem 0 0 0;
+			position: relative;
+			height: 3.67rem;
+		}
+
+		#confirm_cancel {
+			width: 50%;
+			height: 3.67rem;
+			line-height: 3.67rem;
+			color: #077de1;
+			font-size: 1.42rem;
+			text-align: center;
+			border-right: 1px solid #e9eef3;
+			position: absolute;
+			left: 0;
+		}
+
+		#confirm_confirm {
+			width: 50%;
+			height: 3.67rem;
+			line-height: 3.67rem;
+			color: #077de1;
+			font-size: 1.42rem;
+			text-align: center;
+			position: absolute;
+			right: 0;
+		}
+	</style>
+
+	<div id="confirm_wrap">
+		<div class="confirm_body">
+			<p id="confirm_title" class="SemiBold">提示</p>
+			<p id="confirm_content">确认删除此设备?</p>
+			<div class="confirm_btn">
+				<span id="confirm_cancel">取消</span>
+				<span id="confirm_confirm" class="SemiBold">确认删除</span>
+			</div>
+		</div>
+	</div>
+
+	<style>
+		#toast_wrap {
+			display: none;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(255, 255, 255, 0);
+			position: fixed;
+			z-index: 200;
+		}
+
+		.toast_content {
+			font-size: 12px;
+			padding: 1.21rem 1.58rem;
+			background-color: rgba(58, 58, 58, 0.9);
+			border-radius: 0.5rem;
+			text-align: center;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
+
+		#toast_icon {
+			width: 3rem;
+			height: 3rem;
+			margin: 0 auto 0.75rem;
+			position: relative;
+		}
+
+		#toast_tip {
+			font-size: 1.08rem;
+			color: white;
+			margin: 0 auto;
+			white-space: nowrap;
+		}
+	</style>
+
+	<div id="toast_wrap">
+		<div class="toast_content">
+			<img id="toast_icon" />
+			<div id="toast_tip"></div>
+		</div>
+	</div>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111948556-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+			console.log('ga:', arguments)
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-111948556-1');
+	</script>
+	<script type="text/javascript" src="cordova.js"></script>
+    <script>
+        document.write('<script type="text/javascript" src=envcontext.js?' + Date.now() + '><\/script>');
+    </script>
+<script type="text/javascript" src="common_be237993bc2493cce53c.js"></script><script type="text/javascript" src="index_e47194bf3ad84ee61cb0.js"></script></body>
+</html>

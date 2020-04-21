@@ -1,0 +1,26 @@
+{
+    "name": "demo",
+    "home": "",
+    "remote_server": "",
+    "routes": [
+        {
+            "url": "/index.html",
+            "show_navi": true,
+            "title": "使用原生header",
+            "cls_container":"HomeViewController"
+        },
+        {
+            "url": "/fragment.html",
+            "show_navi": false,
+            "title": "测试页面"
+        },
+        {
+            "url": "/debug.html",
+            "show_navi": false,
+            "cls_container":"DebugViewController"
+
+        }
+    ]
+}
+
+

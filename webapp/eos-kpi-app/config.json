@@ -1,0 +1,113 @@
+{
+    "name": "eos-kpi-app",
+    "home": "/siteAnalysis.html",
+    "remote_server": "",
+    "routes": [
+      {
+        "url": "/siteAnalysis.html",
+        "show_navi": true,
+        "title": "eos_kpi_performanceAnalysis",
+        "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+        "cls_container":"HomeViewController"
+      },
+      {
+        "url": "/turbineAnalysis.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/chooseSite.html",
+        "show_navi": true,
+        "left_icon": "\ue902",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/chooseTurbine.html",
+        "show_navi": true,
+        "left_icon": "\ue902",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/chooseLossOptions.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "title": "eos_kpi_chooseDefault",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/siteCompChooseSite.html",
+        "show_navi": true,
+        "left_icon": "\ue902",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/siteComparison.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "title": "eos_kpi_comparesites",
+        "android_cls_container": "com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/turbineComparison.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "title": "eos_kpi_comparewtgs",
+        "android_cls_container": "com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/siteCompChart.html",
+        "show_navi": true,
+        "title": "eos_kpi_comparesites",
+        "left_icon": "\ue901",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/turbineCompChart.html",
+        "show_navi": true,
+        "title": "eos_kpi_comparewtgs",
+        "left_icon": "\ue901",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchSite.html",
+        "show_navi": false,
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchSiteComp.html",
+        "show_navi": false,
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchTurbine.html",
+        "show_navi": false,
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/searchTurbineComp.html",
+        "show_navi": false,
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      },
+      {
+        "url": "/turbineList.html",
+        "show_navi": true,
+        "left_icon": "\ue901",
+        "right_icon": "\ue922",
+        "title": "",
+        "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+      }
+    ]
+  }
+    
+  

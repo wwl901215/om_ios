@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  hybrid-demo
+
+  Created by syl on 2019/7/18.
+  
+*/
+
+"TITLE_SETTING" = "Setting";
+"TITLE_SWITCH_LANGUAGE" = "Switch Language";
+"TITLE_SWITCH_ORGINIZATION" = "Switch Orginization";
+"TITLE_DOWNLOAD" = "Download App";
+"MENU_TITLE" = "Menu";
+"MENU_SYSTEM" = "System";
+"MENU_SETTING" = "Settings";
+"eos_wind_realTimeMonitoring" = "Real Time Monitoring";
+"eos_asset_overview" = "Asset Overview";
+"eos_asset_list" = "Site List";
+
+"NSLocationAlwaysUsageDescription" = "To get the weather information of your location";
+"NSLocationWhenInUseUsageDescription" = "To get the weather information of your location";
+"msg_username_or_password_empty" = "Username or password is empty";
+"msg_username_or_password_wrong" = "The user name or password is wrong";
+"account" = "Account";
+"account_plceholder" = "Enter your username";
+"password" = "Password";
+"password_plceholder" = "Enter your password";
+"user_environment_select" = "Select an environment";
+"authentication_select" = "Select authorization type";
+"user_environment" = "Environment";
+"env_us" = "US";
+"env_gf" = "Guangfa";
+"env_ch" = "China";
+"env_ppe" = "PPE";
+"env_eur" = "Europe";
+"env_shdl" = "SEP";
+"env_hbjt" = "HCIG";
+"env_india" = "India";
+"authentication" = "Auth";
+"default" = "Default";
+"cancel" = "Cancel";
+"login" = "LOG IN";
+"OK" = "OK";
+"DEMO_TITLE_HOME" = "DEMO_TITLE_HOME";
+"TEST" = "test page";
+"EOSWINDMONITOR" = "eos wind page";
+"TESTAPI" = "test api page";
+"DEMO_TITLE_NAVIBAR" ="DEMO_TITLE_NAVIBAR";
+"DEMO_TITLE_SHARED_DATA" = "DEMO_TITLE_SHARED_DATA";
+"DEMO_TITLE_MOCK_DATA" = "DEMO_TITLE_MOCK_DATA";
+"NETWORK_TIME_OUT" = "Network Error";
+"MENU_TITLE" = "Home";
+"eos_fc_forecast_meteorological" = "Meteorological Forecast";
+"eos_fc_forecast" = "Forecast";
+"eos_fc_forecast_SINGAPORE" = "Singapore Weather";
+"eos_fc_forecast_GLOBAL" = "Global Weather";
+"eos_pf_forecast" = "Power Forecast";
+"eos_pf_turbine_list" = "Turbine Forecast";
+"eos_pf_history_records" = "Historical Records";
+"eos_wind_realTimeMonitoring" = "Real Time Monitoring";
+"eos_kpi_performanceComparison" = "Performance Comparison";
+"eos_kpi_performanceAnalysis" = "Performance Analysis";
+"eos_kpi_chooseDefault" = "Settings";
+"eos_kpi_comparesites" = "Compare Sites";
+"eos_kpi_comparewtgs" = "Compare WTGs";
+"eos_asset_overview" = "Asset Overview";
+"eos_gas_plantOverview" = "Plant Overview";
+"eos_gas_assetOverview" = "Unit Overview";
+"setting" = "Settings";
+"account" = "User";
+"download" = "Share this App";
+"download_title" = "Share this App";
+"version" = "Version No.";
+"logout" = "Log out";
+"download_hint" = "Scan QA code, download APP";
+"guide_notice" = "Click the Menu button to switch apps";
+"i_know" = "OK";
+"switch_language_notice" = "The App will fall back to the desktop, please reopen the App later";
+"switch_org_notice" = "The App will fall back to the desktop, please reopen the App later";
+"title_setting" = "Settings";
+"title_switch_orginization" = "Switch Organization";
+"title_switch_language" = "Switch Language";
+"title_download" = "Download QR code";
+"title_user_agreement" = "User Agreement";
+"title_privacy_policy" = "Privacy Policy";
+"title_about" = "About";
+"title_notification_setting"= "Message Notifications";
+"content_agree_privacy" = "Signing into the application indicates you agree with our User Agreement and Private Policy.";
+"attribut_string_agreement" = "User Agreement";
+"attribut_string_privacy" = "Private Policy";
+"no_available_menu" = "There is no available menu, please check";
+"no_available_app" = "There is no available App, please check";
+"bnt_change_app" = "Change App";
+"title_change_app" = "Change App";
+"no_permission" = "No Permission";
+"no_permission_desc" = "Sorry, you temporarily no application access";
+"eos_wind_turbineMonitoring" = "Asset Details";
+"eos_wind_sitelist" = "Site List";
+"eos_wind_turbineList" = "Turbine List";
+
+"err_login_faild" = "Login Faild";
+"err_apimtoken_expired" = "api token expired";
+"err_network_unavailable" = "Network is no available";
+"err_invalid_req" = "invalid request";

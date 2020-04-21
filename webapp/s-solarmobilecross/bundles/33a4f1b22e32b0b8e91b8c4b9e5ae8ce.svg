@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BEE5FF" offset="0%"></stop>
+            <stop stop-color="#8BCBFF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="39" cy="39" r="39"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EEFBFF" offset="0%"></stop>
+            <stop stop-color="#D2EEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.个人中心" transform="translate(-16.000000, -132.000000)">
+            <g id="Group-3" transform="translate(0.000000, 64.000000)">
+                <g id="Fill-1" transform="translate(16.000000, 68.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M47.5815452,48.5406174 C52.2398295,45.6768526 55.3689992,40.4185033 55.3689992,34.4174108 C55.3689992,25.3647394 48.24989,18 39.4993349,18 C35.2500205,18 31.2594602,19.7133818 28.2627713,22.8242843 C25.2773442,25.9221516 23.633129,30.03934 23.633129,34.4174108 C23.633129,40.4185033 26.7615006,45.6767639 31.4188095,48.5406174 C21.330146,50.0465879 13,59.5924706 13,70.3516958 L13,71.5567914 C13,73.2289392 13.5897786,74.5948916 14.7531082,75.616607 C15.782095,76.5206504 17.2638572,77.1731224 19.2830796,77.6115325 C22.9640748,78.4107618 27.9232341,78.4107618 33.6654838,78.4107618 L45.3363784,78.4107618 C50.7245481,78.4107618 55.8140599,78.4107618 59.5492356,77.6119758 C63.8898855,76.6834581 66,74.702898 66,71.5567914 L66,70.3516958 C66.0001774,59.5924706 57.6700313,50.0467653 47.5815452,48.5406174 L47.5815452,48.5406174 Z" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

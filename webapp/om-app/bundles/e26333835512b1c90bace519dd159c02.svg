@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="230px" viewBox="0 0 21 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>运维工单</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-健康" transform="translate(-49.000000, -788.000000)">
+            <g id="电站管家" transform="translate(0.000000, 640.000000)">
+                <g id="运维工单" transform="translate(17.000000, 127.000000)">
+                    <g transform="translate(32.000000, 21.000000)">
+                        <path d="M5.567,0 L5.567,1.767 L0,1.767 L0,23 L20.457,23 L20.457,1.767 L14.889,1.767 L14.889,0 L5.567,0 Z M6.861,3.367 L13.594,3.367 L13.594,1.295 L6.861,1.295 L6.861,3.367 Z M14.889,4.661 L14.889,3.062 L19.161,3.062 L19.161,21.705 L1.294,21.705 L1.294,3.062 L5.567,3.062 L5.567,4.661 L14.889,4.661 Z" id="Page-1" fill="#8F99A3"></path>
+                        <polygon id="Path" fill="#0088EB" points="4.402 9.25 16.055 9.25 16.055 7.955 4.402 7.955"></polygon>
+                        <polygon id="Path" fill="#0088EB" points="4.402 13.153 16.055 13.153 16.055 11.858 4.402 11.858"></polygon>
+                        <polygon id="Path" fill="#0088EB" points="4.402 17.153 7.784 17.153 7.784 15.858 4.402 15.858"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

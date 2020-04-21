@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>down_blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="对比" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-86.000000, -29.000000)" fill="#099DFF" fill-rule="nonzero">
+            <g id="filter_blue" transform="translate(85.000000, 25.000000)">
+                <g id="down_blue" transform="translate(0.000000, 3.000000)">
+                    <path d="M5.916094,4.3832187 L9.041174,1.2581381 C9.431699,0.86761381 10.064864,0.86761381 10.455388,1.2581381 L10.574049,1.37679951 C10.964574,1.7673238 10.964574,2.40048878 10.574049,2.79101307 L6.6232,6.7418619 C6.427938,6.937124 6.172016,7.0347551 5.916094,7.0347551 C5.660171,7.0347551 5.404249,6.937124 5.208987,6.7418619 L1.258138,2.79101307 C0.867614,2.40048878 0.867614,1.7673238 1.258138,1.37679951 L1.3768,1.2581381 C1.767324,0.86761381 2.400489,0.86761381 2.791013,1.2581381 L5.916094,4.3832187 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

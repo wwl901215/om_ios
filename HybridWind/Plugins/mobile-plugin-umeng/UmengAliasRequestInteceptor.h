@@ -1,0 +1,4 @@
+
+@interface UmengAliasRequestInteceptor : NSURLProtocol
+@end
+

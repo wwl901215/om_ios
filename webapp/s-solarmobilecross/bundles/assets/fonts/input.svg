@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>input</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="11.8641755%" y1="99.8100565%" x2="88.28125%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#0084FF" offset="0.0950168919%"></stop>
+            <stop stop-color="#099DFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="对比" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设备详情" transform="translate(-188.000000, -440.000000)">
+            <g id="Group-3" transform="translate(16.000000, 308.000000)">
+                <g id="input" transform="translate(172.000000, 132.000000)">
+                    <g id="编组-12">
+                        <rect id="矩形-copy-5" fill="#0084FF" opacity="0.08" x="0" y="0" width="40" height="40" rx="20"></rect>
+                        <g id="logout_o" transform="translate(12.000000, 12.000000)">
+                            <rect x="0" y="0" width="16" height="16"></rect>
+                            <path d="M9.41421356,7 L14,7 C14.5522847,7 15,7.44771525 15,8 C15,8.55228475 14.5522847,9 14,9 L9.41421356,9 L10.7071068,10.2928932 C11.0976311,10.6834175 11.0976311,11.3165825 10.7071068,11.7071068 C10.3165825,12.0976311 9.68341751,12.0976311 9.29289322,11.7071068 L6.29289322,8.70710678 C5.90236893,8.31658249 5.90236893,7.68341751 6.29289322,7.29289322 L9.29289322,4.29289322 C9.68341751,3.90236893 10.3165825,3.90236893 10.7071068,4.29289322 C11.0976311,4.68341751 11.0976311,5.31658249 10.7071068,5.70710678 L9.41421356,7 Z M3,14 L8,14 C8.55228475,14 9,14.4477153 9,15 C9,15.5522847 8.55228475,16 8,16 L2,16 C1.44771525,16 1,15.5522847 1,15 L1,1 C1,0.44771525 1.44771525,0 2,0 L8,0 C8.55228475,0 9,0.44771525 9,1 C9,1.55228475 8.55228475,2 8,2 L3,2 L3,14 Z" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

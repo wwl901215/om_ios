@@ -1,0 +1,121 @@
+{
+  "name": "eos-pf-map",
+  "home": "/realTimeMonitoring.html",
+  "remote_server": "",
+  "routes": [
+    {
+      "url": "/realTimeMonitoring.html#/main",
+      "show_navi": true,
+      "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+      "title": "eos_wind_realTimeMonitoring",
+      "cls_container":"HomeViewController"
+    },
+    {
+      "url": "/realTimeMonitoring.html#/back",
+      "show_navi": true,
+      "left_icon": "\ue901",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url": "/siteList.html",
+      "show_navi": true,
+      "left_icon": "\ue901",
+      "right_icon": "\ue922",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url": "/switchSite.html#/WIND",
+      "show_navi": true,
+      "left_icon": "\ue902",
+      "right_icon": "\ue922",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.MenusWhiteWebViewActivity"
+    },
+    {
+      "url": "/switchSite.html#/SOLAR",
+      "show_navi": true,
+      "left_icon": "\ue902",
+      "right_icon": "\ue922",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.MenusWhiteWebViewActivity"
+    },
+    {
+      "url": "/searchSite.html#/WIND",
+      "show_navi": false,
+      "left_icon": "\ue902",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },  {
+      "url": "/searchSite.html#/SOLAR",
+      "show_navi": false,
+      "left_icon": "\ue902",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url": "/turbineMonitoring.html",
+      "show_navi": true,
+      "left_icon": "\ue901",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.BlueWebViewActivity",
+      "cls_container":"BlueWebViewController"
+    },
+    {
+      "url": "/searchTurbine.html",
+      "show_navi": false,
+      "left_icon": "\ue902",
+      "title": "",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url":"/turbineDetails.html",
+      "show_navi":true,
+      "left_icon":"\ue901",
+      "title":"",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url":"/historicalRecords.html#/WIND",
+      "show_navi":true,
+      "left_icon": "\ue901",
+      "title":"eos_pf_history_records",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url":"/historicalRecords.html#/SOLAR",
+      "show_navi":true,
+      "left_icon": "\ue901",
+      "title":"eos_pf_history_records",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url":"/turbineList.html",
+      "show_navi":true,
+      "left_icon": "\ue901",
+      "title":"eos_pf_turbine_list",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },   {
+      "url":"/singleTurbine.html",
+      "show_navi":true,
+      "left_icon": "\ue901",
+      "android_cls_container":"com.enos.mobile.newenergy.home.WhiteWebViewActivity"
+    },
+    {
+      "url": "/powerForecast.html#/WIND",
+      "show_navi": true,
+      "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+      "title": "eos_pf_forecast",
+      "cls_container":"HomeViewController"
+    },
+    {
+      "url": "/powerForecast.html#/SOLAR",
+      "show_navi": true,
+      "android_cls_container":"com.enos.mobile.newenergy.home.MainActivity",
+      "title": "eos_pf_forecast",
+      "cls_container":"HomeViewController"
+    }
+  ]
+}
+    
+  
